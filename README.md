@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:ff9a9e,100:fad0c4&height=200&section=header&text=Umut%20Kaan&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=180&section=header&text=Umut%20Kaan&fontSize=45&fontColor=00ffcc)
 ## 👋 Hakkımda
 - 💻 Yazılımla uğraşıyorum
 - 🤖 Discord bot geliştiriyorum
