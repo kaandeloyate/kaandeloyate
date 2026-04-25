@@ -10,9 +10,9 @@
 ## 📊 GitHub İstatistiklerim
 ![stats](https://github-readme-stats.vercel.app/api?username=kaandeloyate&show_icons=true&theme=radical)
 
-![streak](https://streak-stats.demolab.com?user=KULLANICI_ADIN&theme=radical)
+![streak](https://streak-stats.demolab.com?user=kaandeloyate&theme=radical)
 
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADIN&layout=compact)
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaandeloyate&layout=compact)
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F70000&lines=Discord+Bot+Developer;Web+Developer)
 ## 🚀 Projelerim
 - 🤖 Discord Bot
